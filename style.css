@@ -1,0 +1,44 @@
+header{
+    background-image: url(./img/yo.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(121, 232, 240);
+    background-color: dimgray;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: beige;
+    background-color: dimgrey;
+}
+nav{
+    background-color: darkgray; color: rgb(121, 232, 240);
+}
+div{
+    color: rgb(233, 234, 235);
+    padding: 20px;
+}
+h4{
+    text-align:center;
+    padding: 20px;
+}
+
+h5{
+    text-align: center;
+}
+
+p{
+    text-align: justify
+}
+
+
+footer{
+    background-color:  darkgrey;
+    text-align: center;
+    color:rgb(121, 232, 240) ;
+    padding-inline-end: 0%;
+}
